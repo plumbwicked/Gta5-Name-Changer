@@ -97,7 +97,7 @@ namespace NameChanger
 
         private void LblGitHub_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/sudo-bob/namechanger");
+            Process.Start("https://github.com/plumbwicked/Gta5-Name-Changer");
         }
 
         private void button1_Click(object sender, EventArgs e)

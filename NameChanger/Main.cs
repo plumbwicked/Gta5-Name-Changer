@@ -29,10 +29,10 @@ namespace NameChanger
 
         private void BtnChangeName_Click(object sender, EventArgs e)
         {
-            var procs = Process.GetProcessesByName("RDR2");
+            var procs = Process.GetProcessesByName("GTA5");
             if (procs == null || procs.Length == 0)
             {
-                MessageBox.Show("RDR2.exe not found!", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("GTA5.exe not found!", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
@@ -75,7 +75,7 @@ namespace NameChanger
                     {
                         Invoke(new Action(() =>
                         {
-                            MessageBox.Show("Didn't Find Current Name", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            MessageBox.Show("Didn't Find Name,Check CAPS?", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }));
                     }
 

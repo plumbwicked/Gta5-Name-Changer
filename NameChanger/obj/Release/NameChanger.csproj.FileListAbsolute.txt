@@ -18,3 +18,14 @@ C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\
 C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.exe
 C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.pdb
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\bin\Release\NameChanger.exe.config
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\bin\Release\NameChanger.exe
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\bin\Release\NameChanger.pdb
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.csproj.AssemblyReference.cache
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.csproj.SuggestedBindingRedirects.cache
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.Main.resources
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.Properties.Resources.resources
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.csproj.GenerateResource.cache
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.csproj.CoreCompileInputs.cache
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.exe
+D:\Dev Projects\Gta5-Name-Changer\NameChanger\obj\Release\NameChanger.pdb

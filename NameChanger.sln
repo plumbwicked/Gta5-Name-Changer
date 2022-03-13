@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameChanger", "NameChanger\NameChanger.csproj", "{F5E6F286-E5BE-47DE-AF2D-2B52C6208E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E6F286-E5BE-47DE-AF2D-2B52C6208E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E6F286-E5BE-47DE-AF2D-2B52C6208E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E6F286-E5BE-47DE-AF2D-2B52C6208E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E6F286-E5BE-47DE-AF2D-2B52C6208E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AFE9005-D7CF-4775-BBA8-394CE48F716A}
+	EndGlobalSection
+EndGlobal

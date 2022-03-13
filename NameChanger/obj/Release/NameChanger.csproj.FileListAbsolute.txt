@@ -1,0 +1,20 @@
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\bin\Release\NameChanger.exe.config
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\bin\Release\NameChanger.exe
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\bin\Release\NameChanger.pdb
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.Main.resources
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.Properties.Resources.resources
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.csproj.GenerateResource.cache
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.exe
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.pdb
+C:\Users\Dad\Desktop\Development Projects\namechanger-master2\namechanger-master\NameChanger\obj\Release\NameChanger.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\bin\Release\NameChanger.exe.config
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\bin\Release\NameChanger.exe
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\bin\Release\NameChanger.pdb
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.Main.resources
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.Properties.Resources.resources
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.exe
+C:\Users\Administrator\Downloads\RDR2-Name-Changer-main\NameChanger\obj\Release\NameChanger.pdb

@@ -94,9 +94,10 @@
             // 
             this.AcceptButton = this.btnChangeName;
             this.AllowDrop = true;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.CausesValidation = false;
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.lblGitHub);
             this.Controls.Add(this.btnChangeName);
@@ -104,9 +105,13 @@
             this.Controls.Add(this.lblNewName);
             this.Controls.Add(this.txtCurrentName);
             this.Controls.Add(this.lblCurrentName);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.ForeColor = System.Drawing.Color.Black;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.KeyPreview = true;
             this.MaximizeBox = false;
             this.Name = "Main";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
+            this.TopMost = true;
             this.Load += new System.EventHandler(this.Main_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

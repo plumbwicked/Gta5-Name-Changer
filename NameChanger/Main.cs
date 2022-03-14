@@ -75,7 +75,7 @@ namespace NameChanger
                     {
                         Invoke(new Action(() =>
                         {
-                            MessageBox.Show("Didn't Find Name,Check CAPS?", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            MessageBox.Show("Didn't Find Name, Check CAPS?", "Name Changer", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         }));
                     }
 
@@ -137,7 +137,7 @@ namespace NameChanger
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://www.unknowncheats.me/forum/index.php");
+            Process.Start("https://www.unknowncheats.me/forum/red-dead-redemption-2-a/376079-name-changer-rdr2.html");
         }
     }
 

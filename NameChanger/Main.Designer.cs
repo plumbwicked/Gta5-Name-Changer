@@ -72,32 +72,33 @@
             // 
             // lblGitHub
             // 
-            this.lblGitHub.ActiveLinkColor = System.Drawing.SystemColors.ActiveCaption;
+            this.lblGitHub.ActiveLinkColor = System.Drawing.Color.Lime;
             this.lblGitHub.BackColor = System.Drawing.Color.Transparent;
             resources.ApplyResources(this.lblGitHub, "lblGitHub");
-            this.lblGitHub.LinkColor = System.Drawing.Color.White;
+            this.lblGitHub.LinkColor = System.Drawing.Color.Black;
             this.lblGitHub.Name = "lblGitHub";
             this.lblGitHub.TabStop = true;
+            this.lblGitHub.VisitedLinkColor = System.Drawing.Color.Fuchsia;
             this.lblGitHub.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LblGitHub_LinkClicked);
             // 
             // linkLabel1
             // 
-            this.linkLabel1.ActiveLinkColor = System.Drawing.SystemColors.MenuHighlight;
+            this.linkLabel1.ActiveLinkColor = System.Drawing.Color.Lime;
+            this.linkLabel1.BackColor = System.Drawing.Color.WhiteSmoke;
             resources.ApplyResources(this.linkLabel1, "linkLabel1");
-            this.linkLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.linkLabel1.LinkColor = System.Drawing.Color.White;
+            this.linkLabel1.LinkColor = System.Drawing.Color.Black;
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.TabStop = true;
+            this.linkLabel1.VisitedLinkColor = System.Drawing.Color.Fuchsia;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // Main
             // 
             this.AcceptButton = this.btnChangeName;
             this.AllowDrop = true;
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
-            this.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.CausesValidation = false;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.lblGitHub);
             this.Controls.Add(this.btnChangeName);
@@ -105,13 +106,11 @@
             this.Controls.Add(this.lblNewName);
             this.Controls.Add(this.txtCurrentName);
             this.Controls.Add(this.lblCurrentName);
-            this.ForeColor = System.Drawing.Color.Black;
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.KeyPreview = true;
             this.MaximizeBox = false;
             this.Name = "Main";
-            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
-            this.TopMost = true;
             this.Load += new System.EventHandler(this.Main_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

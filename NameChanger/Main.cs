@@ -137,7 +137,7 @@ namespace NameChanger
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://www.unknowncheats.me/forum/red-dead-redemption-2-a/376079-name-changer-rdr2.html");
+            Process.Start("https://www.unknowncheats.me/forum/grand-theft-auto-v/492872-gta5-name-changer-external.html#post3388941");
         }
     }
 
